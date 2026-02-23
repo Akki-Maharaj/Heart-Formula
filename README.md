@@ -16,7 +16,7 @@ Designed with simplicity in mind, Heart Formula walks you through a quick three 
 
 **Android users** can download and install the app directly by clicking the button above or by downloading the APK file from the link below:
 
-[📥 Download APK](https://github.com/Akki-Maharaj/Heart-Formula/raw/main/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk)
+[📥 Download APK](https://github.com/Akki-Maharaj/Heart-Formula/raw/main/app-arm64-v8a-release.apk)
 
 After downloading, open the file on your Android phone and tap **Install**. If your phone asks for permission to install from unknown sources, go to **Settings → Install Unknown Apps** and allow it for your browser or file manager.
 
